@@ -1,0 +1,38 @@
+BODY{
+    BACKGROUND-COLOR:lIGHTBLUE;
+      text-align:center;
+
+}
+input{
+    text-align:center;
+    padding:20px;
+    padding-top: 20px;
+    background-color:yellow;
+    border:double;
+    border-width:8px;
+    border-radius:50%;
+    color:red;
+
+}
+#v{
+    font-size:50px;
+    border:solid;
+}
+hr{
+    border:solid;
+    border-color:blue;
+}
+button{
+    width:550px;
+    height:30px;
+    background-color:orange;
+    border:solid;
+}
+#Result{
+    border:double;
+    width:200px;
+    height:400px;
+    font-size:20px;
+    background-color:aquamarine;
+    border-width:5px;
+}
